@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\bin\Debug\net8.0\1-ChangeList.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\bin\Debug\net8.0\1-ChangeList.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\bin\Debug\net8.0\1-ChangeList.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\bin\Debug\net8.0\1-ChangeList.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\bin\Debug\net8.0\1-ChangeList.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\refint\1-ChangeList.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\1-ChangeList.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\1-ChangeList\obj\Debug\net8.0\ref\1-ChangeList.dll
