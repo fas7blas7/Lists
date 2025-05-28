@@ -32,11 +32,63 @@ namespace _01.SortProducts
     }
 }
 ```
+2️⃣ ChangeList 🧾
+Namespace: _02.ChangeList
+📌 Description:
+Reads a list of integers and processes commands:
+
+Delete X: removes all occurrences of X
+
+Insert X Y: inserts X at position Y
+Ends with the command "end".
+
+📝 Code:
+
+```csharp
+
+List<int> numbers = Console.ReadLine()
+                    .Split(' ')
+                    .Select(int.Parse)
+                    .ToList();
+
+string input = Console.ReadLine();
+while (input != "end")
+{
+    string[] cmndArg = input.Split(' ');
+
+    string command = cmndArg[0];
+    if (command == "Delete")
+    {
+        int elementToRemove = int.Parse(cmndArg[1]);
+
+        for(int i = 0; i < numbers.Count; i++)
+        {
+            if (numbers[i] == elementToRemove)
+            {
+                numbers.RemoveAt(i);
+                i--;
+            }
+        }
+    }
+    else if (command == "Insert")
+    {
+        int element = int.Parse(cmndArg[1]);
+        int index = int.Parse(cmndArg[2]);
+
+        numbers.Insert(index, element);
+    }
+
+    input = Console.ReadLine();
+}
+
+Console.WriteLine(string.Join(" ", numbers));
+
+```
 📅 Commit Progress Update:
 
-📅 Current Progress: 432 commits
+📅 Current Progress: 434 commits
 📊 Progress Bar:
-███████████████████████████████████████▍86.4% (432/500)
+████████████████████████████████████████▍86.8% (434/500)
 
 📌 Milestones:
 ✅ 100 commits
