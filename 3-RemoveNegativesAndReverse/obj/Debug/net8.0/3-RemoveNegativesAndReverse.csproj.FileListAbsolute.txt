@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\bin\Debug\net8.0\3-RemoveNegativesAndReverse.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\bin\Debug\net8.0\3-RemoveNegativesAndReverse.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\bin\Debug\net8.0\3-RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\bin\Debug\net8.0\3-RemoveNegativesAndReverse.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\bin\Debug\net8.0\3-RemoveNegativesAndReverse.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\refint\3-RemoveNegativesAndReverse.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\3-RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\3-RemoveNegativesAndReverse\obj\Debug\net8.0\ref\3-RemoveNegativesAndReverse.dll
