@@ -82,13 +82,45 @@ while (input != "end")
 }
 
 Console.WriteLine(string.Join(" ", numbers));
+```
+3️⃣ RemoveNegativesAndReverse 🔄
+Namespace: _03.RemoveNegativesAndReverse
+📌 Description:
+Reads a list of integers, removes all negative numbers, reverses the remaining list, and prints it. If the list is empty after filtering, prints "empty".
+
+📝 Code:
+
+```csharp
+
+List<int> numbers = Console.ReadLine()
+                    .Split(' ')
+                    .Select(int.Parse)
+                    .ToList();
+
+for (int i = 0; i < numbers.Count; i++)
+{
+    if (numbers[i] < 0)
+    {
+        numbers.RemoveAt(i);
+        i--;
+    }
+}
+numbers.Reverse();
+if (numbers.Count == 0)
+{
+    Console.WriteLine("empty");
+}
+else
+{
+    Console.WriteLine(string.Join(" ", numbers));
+}
 
 ```
 📅 Commit Progress Update:
 
-📅 Current Progress: 434 commits
+📅 Current Progress: 436 commits
 📊 Progress Bar:
-████████████████████████████████████████▍86.8% (434/500)
+█████████████████████████████████████████▉87.2% (436/500)
 
 📌 Milestones:
 ✅ 100 commits
