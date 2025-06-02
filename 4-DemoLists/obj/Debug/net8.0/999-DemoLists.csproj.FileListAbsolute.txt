@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\bin\Debug\net8.0\999-DemoLists.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\bin\Debug\net8.0\999-DemoLists.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\bin\Debug\net8.0\999-DemoLists.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\bin\Debug\net8.0\999-DemoLists.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\bin\Debug\net8.0\999-DemoLists.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\refint\999-DemoLists.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\999-DemoLists.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\17-LISTS\LISTS-DEMO\999-DemoLists\obj\Debug\net8.0\ref\999-DemoLists.dll
